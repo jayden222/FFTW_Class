@@ -1,1 +1,3 @@
 # FFTW_Class
+A class basiced on FFTW. 
+To make call of fftw_plan more easier, this class will preallocate the address that fftw_complex needs. 
